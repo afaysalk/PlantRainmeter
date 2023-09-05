@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mpurses/Sonder/master/Plugins/Screenshots/Sonder-v21.11.png">
+  <img src="mainimage.png">
 </p>
  
 
